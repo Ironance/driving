@@ -11,3 +11,5 @@ elif country == 'America':
         print('You can attend the driving exam')
     else:
         print('You cannot attend the driving exam')
+else:
+    print('Unknown country(Taiwan/America Only)')
